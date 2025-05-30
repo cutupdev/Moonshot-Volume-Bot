@@ -37,3 +37,4 @@ Before starting the bot, configure the `.env` file with the required details:
 ## Contacts
 - Whatspp: https://wa.me/13137423660
 - Telegram: https://t.me/DevCutup
+- Twitter: https://x.com/devcutup
